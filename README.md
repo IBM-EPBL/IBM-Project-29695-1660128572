@@ -39,14 +39,7 @@
   </a>
  
 
-  <p align="center">
-    <h1>Smart Waste Management System For Metropolitan Cities</h1>
-    <div align="left">
-    <video src="https://user-images.githubusercontent.com/114855932/197398151-8f971945-c7da-4286-9b66-31cb02a43abf.mp4" data-canonical-src="https://user-images.githubusercontent.com/114855932/197398151-8f971945-c7da-4286-9b66-31cb02a43abf.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
 
-  </video>
-    <br />
-     <br />
     <div align="left">
    <h2>Category : <strong>Internet Of Things</strong> </h2>
   <h2>Team ID : <strong>PNT2022TMID21140</strong></h2>
