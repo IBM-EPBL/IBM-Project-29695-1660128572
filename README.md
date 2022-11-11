@@ -30,7 +30,7 @@
   </a>
 
 
-  <h1 align="center">IBM-Project-43114-1660713040</h1>
+  <h1 align="center">IBM-Project-29695-1660128572</h1>
   
   <br />
 <br />
@@ -77,13 +77,13 @@
       </ul>
     </li>
     <li>
-      <a href="#preparation phase">preparation phase</a>
+      <a href="#preparation phase">Preparation Phase</a>
       </li>
-    <li><a href="#ideation phase">ideation phase</a></li>
-    <li><a href="#project design phase 1">project design phase 1</a></li>
-    <li><a href="#project design phase 2">project design phase 2</a></li>
-    <li><a href="#project planning phase">project planning phase</a></li>
-    <li><a href="#project development phase">project development phase</a></li>
+    <li><a href="#ideation phase">Ideation Phase</a></li>
+    <li><a href="#project design phase 1">Project Design Phase 1</a></li>
+    <li><a href="#project design phase 2">Project Design Phase 2</a></li>
+    <li><a href="#project planning phase">Project Planning Phase</a></li>
+    <li><a href="#project development phase">Project Development Phase</a></li>
    </ol>
 </details>
 
@@ -102,9 +102,6 @@
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Skills Required
 
@@ -115,7 +112,6 @@
 * IBM Node-Red
 * IBM Cloudant DB
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -150,7 +146,6 @@ _For more examples, please refer to the [ideation phase](https://github.com/IBM-
 
 See the [project design phase 1](https://github.com/IBM-EPBL/IBM-Project-29695-1660128572/tree/main/Project%20Design%20Phase%20-%20I) for a full list of proposed features (and known design).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -163,7 +158,6 @@ Technology Architecture)
 
 See the [project design phase 2](https://github.com/IBM-EPBL/IBM-Project-29695-1660128572/tree/main/Project%20Design%20Phase%20-%20II)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -176,7 +170,6 @@ Schedules )
  [project planning phase](https://github.com/IBM-EPBL/IBM-Project-29695-1660128572/tree/main/Project%20Planning%20Phase)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
