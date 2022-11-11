@@ -132,7 +132,7 @@ _For more information, please refer to the [preparation phase](https://github.co
 Survey, Empathize, Defining
 Problem Statement, Ideation)
 
-_For more information, please refer to the [preparation phase](https://github.com/IBM-EPBL/IBM-Project-29695-1660128572/tree/main/Ideation_Phase)_
+_For more information, please refer to the [ideation phase](https://github.com/IBM-EPBL/IBM-Project-29695-1660128572/tree/main/Ideation_Phase)_
 
 
 
