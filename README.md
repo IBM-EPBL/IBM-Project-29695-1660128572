@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/IBM-EPBL/IBM-Project-29695-1660128572 -->
+ 
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -30,7 +30,7 @@
   </a>
 
 
-  <h1 align="center">IBM-Project-29695-1660128572</h1>
+   <h1 align="center">IBM-Project-29695-1660128572</h1>
   
   <br />
 <br />
@@ -39,8 +39,11 @@
   </a>
  
 
- <br />
+  <p align="center">
+    <h1>Smart Waste Management System For Metropolitan Cities</h1>
     <div align="left">
+     <br />
+     <div align="left">
    <h2>Category : <strong>Internet Of Things</strong> </h2>
   <h2>Team ID : <strong>PNT2022TMID21140</strong></h2>
   <h2>Team size : <strong>4</strong></h2>
@@ -50,7 +53,7 @@
       <p>Team member : <strong>Sangeet R</strong></p>
    <br />
     <br />
-    <a href="https://github.com/IBM-EPBL/IBM-Project-29695-1660128572"><strong>Explore the docs »</strong></a>
+     <a href="https://github.com/IBM-EPBL/IBM-Project-29695-1660128572"><strong>Explore the docs »</strong></a>
     <br />
     <br />
    
@@ -70,9 +73,9 @@
       </ul>
     </li>
     <li>
-      <a href="#preparation phase">Preparation Phase</a>
+      <a href="#preparation phase">preparation phase</a>
       </li>
-    <li><a href="#ideation phase">Ideation Phase</a></li>
+     <li><a href="#ideation phase">Ideation Phase</a></li>
     <li><a href="#project design phase 1">Project Design Phase 1</a></li>
     <li><a href="#project design phase 2">Project Design Phase 2</a></li>
     <li><a href="#project planning phase">Project Planning Phase</a></li>
@@ -96,6 +99,9 @@
 
 
 
+
+
+
 ### Skills Required
 
 * Python
@@ -108,6 +114,7 @@
 
 
 
+
 <!-- GETTING STARTED -->
 ## preparation phase
 
@@ -116,7 +123,6 @@ Environment Set-up, etc.)
 
 _For more information, please refer to the [preparation phase](https://github.com/IBM-EPBL/IBM-Project-29695-1660128572/tree/main/Ideation_Phase)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
@@ -128,7 +134,7 @@ Problem Statement, Ideation)
 
 _For more examples, please refer to the [ideation phase](https://github.com/IBM-EPBL/IBM-Project-43114-1660713040/tree/main/Ideation%20Phase)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -138,6 +144,7 @@ _For more examples, please refer to the [ideation phase](https://github.com/IBM-
 * Proposed Solution, ProblemSolution Fit, Solution Architecture)
 
 See the [project design phase 1](https://github.com/IBM-EPBL/IBM-Project-29695-1660128572/tree/main/Project%20Design%20Phase%20-%20I) for a full list of proposed features (and known design).
+
 
 
 
@@ -154,13 +161,15 @@ See the [project design phase 2](https://github.com/IBM-EPBL/IBM-Project-29695-1
 
 
 
+
 <!-- LICENSE -->
 ## project planning phase
 
 * (Milestones & Tasks, Sprint
 Schedules )
 
- [project planning phase](https://github.com/IBM-EPBL/IBM-Project-29695-1660128572/tree/main/Project%20Planning%20Phase)
+[project planning phase](https://github.com/IBM-EPBL/IBM-Project-29695-1660128572/tree/main/Project%20Planning%20Phase)
+
 
 
 
